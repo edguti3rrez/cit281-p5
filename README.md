@@ -3,7 +3,7 @@
 - p5.js: Entry point for the game, createes instances of the monsters with their initial values. The game ends when all monsters have died.
 - p5-monster-game.js: The code module for the MonsterGame class and has methods to create a. monster array and plays the game.
 
-  <img src="./p5-monster.png" alt="p5-monster.png" width="" height="">
+  <img src="./p5-monster.png" alt="p5-monster.png" width="397" height="643">
 _-Example output of the Monster Game_
 
 
